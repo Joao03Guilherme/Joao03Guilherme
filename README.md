@@ -1,4 +1,12 @@
-### Hi there 👋
+## 👋 Hello, I'm João!
+
+🎓 Currently pursuing a degree in Engineering Physics at IST Lisboa, Portugal, I am truly captivated by the world of problem-solving and the art of code design. With a deep-rooted love for both engineering and programming, I find immense satisfaction in leveraging my skills to seek out innovative solutions.
+
+💻 Proficient in Python, SQL, C, and C++, I have honed my abilities in data visualization and analysis. However, my true passion lies in the intricate realm of algorithms and data structures. I am constantly driven to craft efficient and elegant solutions, utilizing the power of algorithms to unravel complex problems and transform challenges into opportunities.
+
+🔍 Whether it involves extracting valuable insights from data or optimizing existing processes, I thrive on the excitement of delving into new projects that demand creative problem-solving and a sharp focus on algorithmic thinking.
+
+Feel free to reach out and connect. Let's embark on this incredible journey of building the future together! 🚀
 
 <!--
 **Joao03Guilherme/Joao03Guilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
